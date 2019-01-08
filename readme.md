@@ -1,6 +1,6 @@
 ### neural-networks-and-deep-learning-zh_cn 学习笔记
 
-[原文地址](https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn)
+[原文地址](https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn) [mnist 地址](http://www.deeplearning.net/tutorial/gettingstarted.html)
 
 ------
 
