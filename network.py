@@ -113,6 +113,6 @@ def sigmoid_prime(z):
 if __name__ == "__main__":
     mnist = mnist_loader()
     training_data, validation_data, test_data = mnist.load_data_wrapper()
-    
-    net = Network([784,20,10])
-    net.SGD(training_data, 20, 10, 3.0, test_data=test_data)
+
+    net = Network([784,30,10])
+    net.SGD(training_data, 30, 10, 3.0, test_data=test_data)
